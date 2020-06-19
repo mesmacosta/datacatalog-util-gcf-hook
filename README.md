@@ -1,8 +1,8 @@
-# Datacatalog Util Google Cloud Function Hooks
+# Datacatalog Util Hooks
 
 [![License][1]][1] [![Issues][2]][3]
 
-A package to manage Google Cloud Function Hooks.
+A package to manage Datacatalog Util Hooks.
 
 **Disclaimer: This is not an officially supported Google product.**
 
