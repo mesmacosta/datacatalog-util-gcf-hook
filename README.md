@@ -123,6 +123,6 @@ Hooks trigger `datacatalog-util` commands when the configured `file_pattern` is 
 | **hooks/tag-templates**  | Automated Tag Templates CSV ingestion.    | datacatalog-sync-tag-templates-*.csv |
 
 
-[1]: https://img.shields.io/github/license/mesmacosta/datacatalog-util-gcf-hookr.svg
+[1]: https://img.shields.io/github/license/mesmacosta/datacatalog-util-gcf-hook.svg
 [2]: https://img.shields.io/github/issues/mesmacosta/datacatalog-util-gcf-hook.svg
 [3]: https://github.com/mesmacosta/datacatalog-util-gcf-hook/issues
