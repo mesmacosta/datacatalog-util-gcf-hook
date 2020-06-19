@@ -46,7 +46,7 @@ Replace below values according to your environment:
 
 ```bash
 export PROJECT_ID=$(gcloud config get-value project)
-export DATACATALOG_UTIL_GCF_HOOK_SA_NAME="$DATACATALOG_UTIL_GCF_NAME-sa"
+export DATACATALOG_UTIL_GCF_HOOK_SA_NAME="datacatalog-util-gcs-hook-sa"
 export DATACATALOG_UTIL_GCF_HOOK_SA_EMAIL="$DATACATALOG_UTIL_GCF_HOOK_SA_NAME@$PROJECT_ID.iam.gserviceaccount.com"
 export DATACATALOG_UTIL_BUCKET_HOOK="datacatalog-util-$PROJECT_ID"
 export DATACATALOG_UTIL_HOOK_TYPE="hooks/tag-templates"
