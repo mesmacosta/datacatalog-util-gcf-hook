@@ -13,6 +13,8 @@ A package to manage Google Cloud Function Hooks.
   Please stick to 80-character line wraps as much as you can.
 -->
 
+![N|Solid](./docs/architecture.png "architecture")
+
 ## Table of Contents
 
 <!-- toc -->
